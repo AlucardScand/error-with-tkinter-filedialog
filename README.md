@@ -1,8 +1,9 @@
 # error-with-tkinter-filedialog
-I can't sole the problem:
 Firstly I would like to say hello!
-I'm new in GitHub community.
+
 I would like someone to give me a hand.
+I'm new in GitHub community and I hope one day I'll help someone.
+I started learning python about 2 months ago and I can't solve the problem below.
 While I'm running the program the error appears:
 
 Qt: Untested Windows version 10.0 detected!
